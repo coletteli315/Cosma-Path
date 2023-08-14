@@ -180,7 +180,7 @@ export const MyRoutes = () => {
     <Router>
       <Routes>
         {/* Home */}
-        <Route path="/" element={<Home />} />
+        <Route path="coletteli315.github.io/Cosma-Path" element={<Home />} />
 
         {/* Daily Horoscopes */}
         <Route path="/dailyhoroscopes" element={<Daily />} />
