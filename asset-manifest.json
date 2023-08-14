@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coletteli315.github.io/Cosma-Path/static/css/main.b139ecd7.css",
-    "main.js": "/coletteli315.github.io/Cosma-Path/static/js/main.bfccf9ea.js",
-    "static/js/787.de69cc3d.chunk.js": "/coletteli315.github.io/Cosma-Path/static/js/787.de69cc3d.chunk.js",
-    "static/media/bg.jpg": "/coletteli315.github.io/Cosma-Path/static/media/bg.e9c908c261b82538f000.jpg",
-    "index.html": "/coletteli315.github.io/Cosma-Path/index.html",
-    "main.b139ecd7.css.map": "/coletteli315.github.io/Cosma-Path/static/css/main.b139ecd7.css.map",
-    "main.bfccf9ea.js.map": "/coletteli315.github.io/Cosma-Path/static/js/main.bfccf9ea.js.map",
-    "787.de69cc3d.chunk.js.map": "/coletteli315.github.io/Cosma-Path/static/js/787.de69cc3d.chunk.js.map"
+    "main.css": "/Cosma-Path/static/css/main.aa47c5ac.css",
+    "main.js": "/Cosma-Path/static/js/main.84f16ab3.js",
+    "static/js/787.de69cc3d.chunk.js": "/Cosma-Path/static/js/787.de69cc3d.chunk.js",
+    "static/media/bg.jpg": "/Cosma-Path/static/media/bg.e9c908c261b82538f000.jpg",
+    "index.html": "/Cosma-Path/index.html",
+    "main.aa47c5ac.css.map": "/Cosma-Path/static/css/main.aa47c5ac.css.map",
+    "main.84f16ab3.js.map": "/Cosma-Path/static/js/main.84f16ab3.js.map",
+    "787.de69cc3d.chunk.js.map": "/Cosma-Path/static/js/787.de69cc3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b139ecd7.css",
-    "static/js/main.bfccf9ea.js"
+    "static/css/main.aa47c5ac.css",
+    "static/js/main.84f16ab3.js"
   ]
 }
