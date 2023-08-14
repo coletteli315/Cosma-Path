@@ -1,24 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
+import { MyRoutes } from './routes/MyRoutes';
 import './App.css';
+import Header from './layouts/header/Header';
+import Footer from './layouts/footer/Footer';
 
 function App() {
   return (
     <div className="App">
+      {/* Render the header component */}
+      <Header />
+
+      {/* Main header section */}
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* Main content */}
+        <main>
+          <MyRoutes />
+        </main>
       </header>
+      <Footer />
     </div>
   );
 }

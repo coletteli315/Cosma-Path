@@ -1,0 +1,24 @@
+.home-btn {
+  width: 25rem;
+  height: 15rem;
+  background-color: #392d68;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: larger;
+  opacity: 80%;
+  border-radius: 0.5rem;
+  border: 0;
+  padding: 2rem;
+}
+
+.home-btn:hover {
+  cursor: pointer;
+  filter: brightness(0.9);
+}
+
+/* Adjust font size for smaller screens */
+@media screen {
+  .home-btn {
+    font-size: xx-large; /* Adjust the font size as needed */
+  }
+}

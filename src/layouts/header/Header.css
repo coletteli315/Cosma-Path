@@ -1,0 +1,11 @@
+.header {
+  background-color: #2b284d;
+  width: 100%;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+}
+
+.header-start-space {
+  width: 2rem;
+}
