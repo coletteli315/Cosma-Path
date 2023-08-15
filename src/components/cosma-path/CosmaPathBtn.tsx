@@ -3,7 +3,7 @@ import './CosmaPathBtn.css';
 
 const CosmaPathBtn = () => {
   return (
-    <a className="cosma-path-btn" href="/">
+    <a className="cosma-path-btn" href="/Cosma-Path">
       <span className="cosma-path-btn-text">Cosma Path</span>
     </a>
   );
