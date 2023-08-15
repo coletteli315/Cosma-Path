@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from '../pages/home/Home';
 
 import Daily from '../pages/daily/Daily';
@@ -180,7 +180,7 @@ export const MyRoutes = () => {
     <Router>
       <Routes>
         {/* Home */}
-        <Route path="coletteli315.github.io/Cosma-Path" element={<Home />} />
+        <Route path="/" element={<Home />} />
 
         {/* Daily Horoscopes */}
         <Route path="/dailyhoroscopes" element={<Daily />} />
