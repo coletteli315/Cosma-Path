@@ -38,6 +38,17 @@
   margin-bottom: 5rem;
 }
 
+/* Adjust for smaller screens */
+@media screen and (max-width: 570px) {
+  .zodiac-btn-container {
+    transform: scale(0.77);
+  }
+
+  .love-title {
+    font-size: 200%;
+  }
+}
+
 .love-reading {
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;

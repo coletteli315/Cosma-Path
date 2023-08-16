@@ -4,7 +4,7 @@
   background-color: #392d68;
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: larger;
+  font-size: xx-large;
   opacity: 80%;
   border-radius: 0.5rem;
   border: 0;
@@ -15,10 +15,36 @@
   align-items: center; /* Center content horizontally */
 }
 
-/* Adjust font size for smaller screens */
-@media screen {
+/* Adjust for smaller screens */
+@media screen and (max-width: 950px) {
   .zodiac-btn {
-    font-size: xx-large; /* Adjust the font size as needed */
+    width: 15vw;
+    height: 30vh;
+    font-size: x-large;
+    padding: 1rem;
+    background-size: 60%;
+  }
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 770px) {
+  .zodiac-btn {
+    width: 15vw;
+    height: 30vh;
+    font-size: large;
+    padding: 1rem;
+    background-size: 60%;
+  }
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 570px) {
+  .zodiac-btn {
+    width: 19vw;
+    height: 20vh;
+    font-size: small;
+    padding: 1rem;
+    background-size: 60%;
   }
 }
 
