@@ -60,6 +60,18 @@
   }
 }
 
+/* Adjust for smaller screens */
+@media screen and (max-width: 400px) {
+  .zodiac-btn {
+    width: 22vw;
+    height: 12vh;
+    font-size: x-small;
+    padding: 0.2rem;
+    padding-bottom: 0.3rem;
+    background-size: 60%;
+  }
+}
+
 .zodiac-btn:hover {
   cursor: pointer;
   filter: brightness(0.9);
