@@ -20,8 +20,8 @@
   .zodiac-btn {
     width: 15vw;
     height: 25vh;
-    font-size: x-large;
-    padding: 1rem;
+    font-size: large;
+    padding-bottom: 0.5rem;
     background-size: 60%;
   }
 }
@@ -32,7 +32,7 @@
     width: 15vw;
     height: 19vh;
     font-size: medium;
-    padding: 1rem;
+    padding-bottom: 0.3rem;
     background-size: 60%;
   }
 }
@@ -44,6 +44,18 @@
     height: 17vh;
     font-size: small;
     padding: 0.5rem;
+    background-size: 60%;
+  }
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 490px) {
+  .zodiac-btn {
+    width: 22vw;
+    height: 15vh;
+    font-size: x-small;
+    padding: 0.2rem;
+    padding-bottom: 0.6rem;
     background-size: 60%;
   }
 }
