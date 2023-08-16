@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Cosma Path
+
+![badge](https://github.com/coletteli315/Cosma-Path/assets/120034188/c39a6d1e-62d8-4bb7-9841-0f008d143441)
+
+Welcome to Cosma Path, your comprehensive astrology app that helps you unlock the wisdom of the stars and discover your cosmic journey. Visit the website at: https://coletteli315.github.io/Cosma-Path/
+
+## Features
+
+- Daily horoscope readings for all 12 zodiac signs
+- Personalized astrological insights
+- Love compatibility analysis for zodiac pairs
+- More features coming soon...
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
