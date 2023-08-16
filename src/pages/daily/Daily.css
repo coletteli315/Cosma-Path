@@ -41,7 +41,8 @@
 /* Adjust for smaller screens */
 @media screen and (max-width: 570px) {
   .zodiac-btn-container {
-    transform: scale(0.77);
+    transform: scale(0.9);
+    width: 100vw;
   }
 
   .daily-title {
