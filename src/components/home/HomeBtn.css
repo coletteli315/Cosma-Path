@@ -4,7 +4,7 @@
   background-color: #392d68;
   color: white;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: larger;
+  font-size: xx-large;
   opacity: 80%;
   border-radius: 0.5rem;
   border: 0;
@@ -16,9 +16,9 @@
   filter: brightness(0.9);
 }
 
-/* Adjust font size for smaller screens */
-@media screen {
+/* Adjust for smaller screens */
+@media screen and (max-width: 500px) {
   .home-btn {
-    font-size: xx-large; /* Adjust the font size as needed */
+    width: 80vw;
   }
 }
