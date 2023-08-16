@@ -6,9 +6,9 @@ Welcome to Cosma Path, your comprehensive astrology app that helps you unlock th
 
 ## Features
 
-- Daily horoscope readings for all 12 zodiac signs\
-- Personalized astrological insights\
-- Love compatibility analysis for zodiac pairs\
+- Daily horoscope readings for all 12 zodiac signs
+- Personalized astrological insights
+- Love compatibility analysis for zodiac pairs
 - More features coming soon...
 
 ## Getting Started with Create React App
