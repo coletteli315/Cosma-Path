@@ -16,10 +16,10 @@
 }
 
 /* Adjust for smaller screens */
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 970px) {
   .zodiac-btn {
     width: 15vw;
-    height: 30vh;
+    height: 25vh;
     font-size: x-large;
     padding: 1rem;
     background-size: 60%;
@@ -30,8 +30,8 @@
 @media screen and (max-width: 770px) {
   .zodiac-btn {
     width: 15vw;
-    height: 25vh;
-    font-size: large;
+    height: 19vh;
+    font-size: medium;
     padding: 1rem;
     background-size: 60%;
   }
