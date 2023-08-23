@@ -9,27 +9,34 @@ const DailyTaurus = () => {
       <h1 className="daily-title">Taurus Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Taurus, you might find yourself seeking stability and comfort.
+        Your practical nature is in full swing, and you're likely to focus on
+        tasks that require patience and attention to detail. This is a good time
+        to tackle any ongoing projects or responsibilities that you've been
+        putting off. While you're naturally reliable, make sure to also take
+        some time for yourself and engage in activities that bring you joy.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, your loyalty and commitment shine
+        through. If you're in a relationship, make an effort to spend quality
+        time with your partner and show them your affection. Single Taurus
+        individuals might feel drawn to someone who shares their values and
+        interests.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your methodical approach to work is highly valued, and you might
+        be asked to assist in resolving a complex issue or offer your expertise
+        to a challenging project.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Pay attention to your physical well-being today. Engage in
+        activities that help you relax and unwind, such as a leisurely walk or
+        some gentle stretching.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Taurus, your horoscope is meant to provide a fun and
+        light-hearted insight into the energies of the day. Embrace your
+        practical side while also allowing yourself to enjoy life's pleasures.
       </div>
       <GoBackBtn />
     </div>

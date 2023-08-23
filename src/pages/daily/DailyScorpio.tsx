@@ -9,27 +9,33 @@ const DailyScorpio = () => {
       <h1 className="daily-title">Scorpio Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Scorpio, your intuitive and determined nature comes to the
+        forefront. You might find yourself delving deep into matters that pique
+        your interest, seeking hidden truths and insights. This is a great time
+        for research, problem-solving, and introspection. However, be mindful
+        not to become too fixated on negative thoughts or suspicions. Trust your
+        instincts while also maintaining a balanced perspective.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, trust and vulnerability are key. Open
+        communication with your partner can deepen your emotional connection.
+        Single Scorpios might find themselves drawn to someone who shares their
+        intensity and depth.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your determination and focus can lead to significant progress in
+        your work projects. Consider tackling complex tasks that require your
+        analytical skills.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Channel your energy into physical activities that help you
+        release tension and stress. Whether it's a workout or a relaxing walk,
+        moving your body will boost your mood.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Scorpio, your horoscope provides a glimpse into the day's
+        energies. Embrace your intuition and passion while also practicing
+        self-care and maintaining a healthy perspective.
       </div>
       <GoBackBtn />
     </div>

@@ -9,27 +9,32 @@ const DailyLibra = () => {
       <h1 className="daily-title">Libra Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Libra, your diplomatic and harmonious nature takes center stage.
+        You're likely to seek balance and cooperation in your interactions with
+        others. This is a great time to resolve conflicts and build bridges,
+        whether it's in your personal relationships or professional
+        collaborations. Remember to also consider your own needs and preferences
+        while ensuring that the needs of others are met.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, focus on fostering understanding and
+        compromise with your partner. Single Libras might find themselves drawn
+        to someone who shares their values and promotes a sense of harmony.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your ability to navigate social dynamics can benefit you in the
+        workplace. Your cooperative attitude and willingness to listen can lead
+        to productive teamwork.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Embrace activities that promote relaxation and inner peace, such
+        as meditation, yoga, or spending time in nature. Maintaining emotional
+        well-being is crucial for overall health.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Libra, your horoscope offers a playful insight into the day's
+        energies. Embrace your diplomatic skills and strive to create harmony in
+        your interactions while also valuing your own needs.
       </div>
       <GoBackBtn />
     </div>

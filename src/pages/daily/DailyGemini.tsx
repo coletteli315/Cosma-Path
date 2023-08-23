@@ -9,27 +9,33 @@ const DailyGemini = () => {
       <h1 className="daily-title">Gemini Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Gemini, your curious and adaptable nature takes center stage. You
+        might find yourself drawn to new experiences, ideas, and conversations
+        that stimulate your mind. This is a great time to engage in learning or
+        networking opportunities. However, be mindful not to spread yourself too
+        thin by taking on too many tasks at once. Focus on what truly resonates
+        with you and prioritize your interests.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: Communication is key in your relationships today. Express your
+        thoughts and feelings openly, and encourage your partner to do the same.
+        Single Geminis might find themselves drawn to someone who stimulates
+        their intellect and shares their zest for life.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your versatility is an asset in the workplace, and you might be
+        called upon to adapt to changing circumstances or take on unexpected
+        tasks. Embrace these challenges as opportunities for growth.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Keep your mind engaged by trying out a new hobby, reading a
+        thought-provoking book, or engaging in a stimulating conversation.
+        Mental activity can contribute to your overall well-being.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Gemini, your horoscope offers a playful glimpse into the day's
+        energies. Embrace your curiosity and enjoy the variety that life has to
+        offer.
       </div>
       <GoBackBtn />
     </div>

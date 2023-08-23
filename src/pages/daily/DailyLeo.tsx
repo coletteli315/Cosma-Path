@@ -9,27 +9,33 @@ const DailyLeo = () => {
       <h1 className="daily-title">Leo Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Leo, your confident and charismatic energy shines brightly.
+        You're likely to be in the spotlight, and your natural leadership
+        qualities are emphasized. This is a great time to take charge of
+        projects or initiatives that require your enthusiasm and determination.
+        However, make sure to also listen to others and consider their input, as
+        collaboration can lead to even greater success.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: Your charm and magnetic personality are irresistible in matters of
+        the heart. If you're in a relationship, show appreciation for your
+        partner and create special moments together. Single Leos might find
+        themselves drawing admirers who are captivated by your presence.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your self-assured approach can lead to breakthroughs at work.
+        Express your ideas confidently and take calculated risks to achieve your
+        goals.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Engage in physical activities that invigorate your body and
+        mind. Whether it's a workout, dance class, or outdoor adventure, staying
+        active will boost your energy and mood.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Leo, your horoscope provides a glimpse into the day's
+        energies. Embrace your confidence and use your charisma to inspire those
+        around you while also valuing teamwork and collaboration.
       </div>
       <GoBackBtn />
     </div>
