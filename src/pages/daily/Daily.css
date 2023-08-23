@@ -31,7 +31,7 @@
 }
 
 .zodiac-btn-container {
-  display: inline-table;
+  display: flex;
   justify-items: center;
   flex-direction: row;
   gap: 4rem;
@@ -40,10 +40,9 @@
 
 /* Adjust for smaller screens */
 @media screen and (max-width: 570px) {
-  /* .zodiac-btn-container {
-    transform: scale(0.9);
-    width: 100vw;
-  } */
+  .zodiac-btn-container {
+    gap: 1.8rem;
+  }
 
   .daily-title {
     font-size: 200%;
