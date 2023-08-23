@@ -16,12 +16,12 @@
 }
 
 /* Adjust for smaller screens */
-@media screen and (max-width: 970px) {
+@media screen and (max-width: 1030px) {
   .zodiac-btn {
     width: 15vw;
     height: 25vh;
     font-size: large;
-    padding-bottom: 0.5rem;
+    padding-bottom: 1.5rem;
     background-size: 60%;
   }
 }
@@ -32,29 +32,28 @@
     width: 15vw;
     height: 19vh;
     font-size: medium;
-    padding-bottom: 0.3rem;
+    padding-bottom: 1rem;
     background-size: 60%;
   }
 }
 
 /* Adjust for smaller screens */
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 580px) {
   .zodiac-btn {
-    width: 22vw;
-    height: 17vh;
-    font-size: small;
-    padding: 0.5rem;
-    background-size: 60%;
-  }
-}
-
-/* Adjust for smaller screens */
-@media screen and (max-width: 490px) {
-  .zodiac-btn {
-    width: 22vw;
+    width: 15vw;
     height: 15vh;
+    font-size: small;
+    padding-bottom: 0.8rem;
+    background-size: 60%;
+  }
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 500px) {
+  .zodiac-btn {
+    width: 14vw;
+    height: 12vh;
     font-size: x-small;
-    padding: 0.2rem;
     padding-bottom: 0.6rem;
     background-size: 60%;
   }
@@ -63,23 +62,32 @@
 /* Adjust for smaller screens */
 @media screen and (max-width: 400px) {
   .zodiac-btn {
-    width: 22vw;
-    height: 12vh;
+    width: 13vw;
+    height: 10vh;
     font-size: x-small;
-    padding: 0.2rem;
+    padding-bottom: 0.4rem;
+    background-size: 60%;
+  }
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 330px) {
+  .zodiac-btn {
+    width: 10vw;
+    height: 8vh;
+    font-size: x-small;
     padding-bottom: 0.3rem;
     background-size: 60%;
   }
 }
 
 /* Adjust for smaller screens */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 260px) {
   .zodiac-btn {
-    width: 22vw;
-    height: 8vh;
+    width: 9vw;
+    height: 6vh;
     font-size: x-small;
-    padding: 0.2rem;
-    padding-bottom: 0.3rem;
+    padding-bottom: 0.2rem;
     background-size: 60%;
   }
 }
