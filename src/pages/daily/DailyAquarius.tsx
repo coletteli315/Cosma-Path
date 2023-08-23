@@ -9,27 +9,33 @@ const DailyAquarius = () => {
       <h1 className="daily-title">Aquarius Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Aquarius, your innovative and independent nature shines through.
+        You're likely to seek out unique solutions and unconventional approaches
+        to challenges. This is a great time to engage in creative projects or
+        brainstorm new ideas. Embrace your individuality and don't be afraid to
+        share your perspectives with others, even if they differ from the norm.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, your open-mindedness and friendly
+        demeanor can enhance your relationships. Spend quality time with your
+        partner, engaging in meaningful conversations. Single Aquarians might
+        find themselves attracted to someone who appreciates their unique
+        qualities.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your ability to think outside the box can lead to breakthroughs
+        in your work. Consider collaborating with others who share your
+        innovative mindset.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Engage in activities that stimulate your mind and body. Whether
+        it's trying out a new hobby, attending a workshop, or going for a walk
+        in a new environment, embracing novelty can invigorate you.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Aquarius, your horoscope offers a playful glimpse into the
+        day's energies. Embrace your individuality and use your creativity to
+        inspire positive changes in your life and the lives of those around you.
       </div>
       <GoBackBtn />
     </div>

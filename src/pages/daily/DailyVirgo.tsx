@@ -9,27 +9,32 @@ const DailyVirgo = () => {
       <h1 className="daily-title">Virgo Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Virgo, your practical and analytical nature is highlighted. You
+        might find yourself focusing on tasks that require attention to detail
+        and organization. This is a great time to tackle any work or projects
+        that have been lingering on your to-do list. Your meticulous approach
+        can lead to efficient outcomes, but be mindful not to overthink or
+        become too critical of yourself.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, communication is essential. Express your
+        thoughts and feelings openly with your partner, and listen actively to
+        their perspective as well. Single Virgos might find themselves attracted
+        to someone who shares their intellectual interests.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your methodical approach is valued in the workplace. Consider
+        organizing your tasks and setting priorities to maximize productivity.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Focus on maintaining a balanced routine that supports your
+        physical and mental well-being. Incorporate healthy habits, such as
+        nutritious meals, exercise, and relaxation techniques.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Virgo, your horoscope provides a lighthearted look at the
+        day's energies. Embrace your attention to detail while also allowing
+        yourself to enjoy moments of relaxation and spontaneity.
       </div>
       <GoBackBtn />
     </div>

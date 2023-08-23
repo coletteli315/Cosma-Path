@@ -9,27 +9,33 @@ const DailyCancer = () => {
       <h1 className="daily-title">Cancer Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Cancer, your emotional and intuitive nature is heightened. You
+        might find yourself seeking comfort and security in familiar
+        surroundings and with loved ones. This is a great time to connect with
+        family and close friends, as their support can bring you a sense of
+        peace. Trust your instincts when making decisions, and remember to take
+        some time for self-care to recharge your emotional well-being.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: Emotional connections are highlighted in your relationships today.
+        Spend quality time with your partner, sharing your thoughts and
+        feelings. Single Cancers might find themselves attracted to someone who
+        shares their values and offers a sense of emotional understanding.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your empathy and nurturing qualities are appreciated by your
+        colleagues. You might find yourself assisting others or taking on a
+        supportive role within the team.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Pay attention to your emotional health today. Engage in
+        activities that bring you joy, whether it's spending time in nature,
+        practicing mindfulness, or enjoying creative pursuits.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Cancer, your horoscope offers a gentle insight into the
+        energies of the day. Embrace your nurturing side and prioritize your
+        emotional well-being while also staying open to new experiences.
       </div>
       <GoBackBtn />
     </div>

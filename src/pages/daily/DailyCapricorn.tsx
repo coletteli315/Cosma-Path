@@ -9,27 +9,33 @@ const DailyCapricorn = () => {
       <h1 className="daily-title">Capricorn Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Capricorn, your disciplined and practical nature is highlighted.
+        You might find yourself focused on tasks that require careful planning
+        and organization. This is a great time to tackle responsibilities and
+        projects that contribute to your long-term goals. While your
+        determination is admirable, remember to also take breaks and prioritize
+        self-care to maintain a healthy balance.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, express your feelings and show your
+        commitment to your partner. Communication is key to fostering trust and
+        understanding. Single Capricorns might find themselves drawn to someone
+        who shares their values and ambition.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your attention to detail and methodical approach can lead to
+        successful outcomes in your work projects. Consider working on tasks
+        that require your analytical skills.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Prioritize your physical well-being by engaging in activities
+        that promote relaxation and stress relief. Whether it's meditation, a
+        warm bath, or deep breathing exercises, find what works for you.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Capricorn, your horoscope provides a glimpse into the day's
+        energies. Embrace your practicality while also allowing yourself moments
+        of rest and enjoyment.
       </div>
       <GoBackBtn />
     </div>

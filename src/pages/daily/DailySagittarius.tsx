@@ -9,27 +9,33 @@ const DailySagittarius = () => {
       <h1 className="daily-title">Sagittarius Daily Horoscope</h1>
       <CurrentDate />
       <div className="daily-reading">
-        Love: Today, your relationships are in focus. Express your emotions and
-        show appreciation to your loved ones. A thoughtful gesture or
-        conversation can strengthen your bonds.
+        Today, Sagittarius, your adventurous and optimistic nature takes center
+        stage. You're likely to seek new experiences and opportunities that
+        expand your horizons. This is a great time for learning, travel, and
+        exploring different perspectives. Embrace spontaneity and stay open to
+        unexpected changes, as they might lead to exciting outcomes.
       </div>
       <div className="daily-reading">
-        Career: You're full of energy and enthusiasm. Take the lead on a project
-        and showcase your innovative ideas. Your determination will make a
-        positive impression on colleagues and superiors.
+        Love: In matters of the heart, your cheerful and open-minded attitude
+        can enhance your relationships. Share your aspirations with your
+        partner, and be receptive to their ideas as well. Single Sagittarians
+        might find themselves drawn to someone who shares their enthusiasm for
+        life.
       </div>
       <div className="daily-reading">
-        Health: Make time for physical activity. Engaging in a workout or
-        outdoor activity will help you release any pent-up energy and keep your
-        mind and body in balance.
+        Career: Your enthusiasm and willingness to take risks can lead to
+        creative breakthroughs at work. Embrace challenges and trust in your
+        ability to adapt to new situations.
       </div>
       <div className="daily-reading">
-        Finance: Stay mindful of your spending today. Consider creating a budget
-        to track your expenses and avoid unnecessary purchases.
+        Health: Engage in physical activities that bring you joy, whether it's a
+        sports activity, dancing, or spending time outdoors. Staying active will
+        not only boost your energy but also enhance your overall well-being.
       </div>
       <div className="daily-reading">
-        Embrace the day with confidence, and remember that your assertiveness
-        can lead to positive outcomes in various aspects of your life.
+        Remember, Sagittarius, your horoscope offers a playful insight into the
+        day's energies. Embrace your adventurous spirit while also taking time
+        to rest and recharge when needed.
       </div>
       <GoBackBtn />
     </div>
