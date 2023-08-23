@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Cosma-Path/static/css/main.e69b70a5.css",
+    "main.css": "/Cosma-Path/static/css/main.684bb140.css",
     "main.js": "/Cosma-Path/static/js/main.5d6501ec.js",
     "static/js/787.de69cc3d.chunk.js": "/Cosma-Path/static/js/787.de69cc3d.chunk.js",
     "static/media/bg.jpg": "/Cosma-Path/static/media/bg.e9c908c261b82538f000.jpg",
     "index.html": "/Cosma-Path/index.html",
-    "main.e69b70a5.css.map": "/Cosma-Path/static/css/main.e69b70a5.css.map",
+    "main.684bb140.css.map": "/Cosma-Path/static/css/main.684bb140.css.map",
     "main.5d6501ec.js.map": "/Cosma-Path/static/js/main.5d6501ec.js.map",
     "787.de69cc3d.chunk.js.map": "/Cosma-Path/static/js/787.de69cc3d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e69b70a5.css",
+    "static/css/main.684bb140.css",
     "static/js/main.5d6501ec.js"
   ]
 }
