@@ -1,0 +1,73 @@
+.select {
+  appearance: none; /* Hide the default arrow */
+  -webkit-appearance: none; /* For Safari */
+  -moz-appearance: none; /* For Firefox */
+  background-image: url(../../../public/img/dropdown.png);
+  background-repeat: no-repeat;
+  background-position-x: 94%;
+  background-position-y: center;
+  background-color: transparent;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+  width: 13vw;
+  height: 7vh;
+  border-radius: 0.5rem;
+  border-width: 0.2rem;
+  border-color: white;
+  font-size: large;
+  outline: none;
+  padding-left: 1rem;
+}
+
+.find-my-sign {
+  width: 13vw;
+  height: 7vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+  color: white;
+  text-align: center;
+  background-color: #392d68;
+  opacity: 80%;
+  border-radius: 0.5rem;
+  border: 0;
+  outline: none;
+}
+
+.find-my-sign:hover {
+  cursor: pointer;
+  filter: brightness(0.9);
+}
+
+.birthdate-container {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  margin-bottom: 5rem;
+}
+
+/* Adjust for smaller screens */
+@media screen and (max-width: 1000px) {
+  .birthdate-container {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .select {
+    width: 30vw;
+  }
+
+  .find-my-sign {
+    width: 30vw;
+  }
+}
+
+.error-message {
+  display: contents;
+  color: white;
+}
+
+.error-box {
+  height: 7vh;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: large;
+}

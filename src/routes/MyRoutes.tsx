@@ -1,6 +1,20 @@
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Home from '../pages/home/Home';
 
+import Find from '../pages/find/Find';
+import FindAries from '../pages/find/FindAries';
+import FindTaurus from '../pages/find/FindTaurus';
+import FindGemini from '../pages/find/FindGemini';
+import FindCancer from '../pages/find/FindCancer';
+import FindLeo from '../pages/find/FindLeo';
+import FindVirgo from '../pages/find/FindVirgo';
+import FindLibra from '../pages/find/FindLibra';
+import FindScorpio from '../pages/find/FindScorpio';
+import FindSagittarius from '../pages/find/FindSagittarius';
+import FindCapricorn from '../pages/find/FindCapricorn';
+import FindAquarius from '../pages/find/FindAquarius';
+import FindPisces from '../pages/find/FindPisces';
+
 import Daily from '../pages/daily/Daily';
 import DailyAries from '../pages/daily/DailyAries';
 import DailyTaurus from '../pages/daily/DailyTaurus';
@@ -181,6 +195,21 @@ export const MyRoutes = () => {
       <Routes>
         {/* Home */}
         <Route path="/" element={<Home />} />
+
+        {/* Find Your Sign */}
+        <Route path="/findyoursign" element={<Find />} />
+        <Route path="/findyoursign/aries" element={<FindAries />} />
+        <Route path="/findyoursign/taurus" element={<FindTaurus />} />
+        <Route path="/findyoursign/gemini" element={<FindGemini />} />
+        <Route path="/findyoursign/cancer" element={<FindCancer />} />
+        <Route path="/findyoursign/leo" element={<FindLeo />} />
+        <Route path="/findyoursign/virgo" element={<FindVirgo />} />
+        <Route path="/findyoursign/libra" element={<FindLibra />} />
+        <Route path="/findyoursign/scorpio" element={<FindScorpio />} />
+        <Route path="/findyoursign/sagittarius" element={<FindSagittarius />} />
+        <Route path="/findyoursign/capricorn" element={<FindCapricorn />} />
+        <Route path="/findyoursign/aquarius" element={<FindAquarius />} />
+        <Route path="/findyoursign/pisces" element={<FindPisces />} />
 
         {/* Daily Horoscopes */}
         <Route path="/dailyhoroscopes" element={<Daily />} />

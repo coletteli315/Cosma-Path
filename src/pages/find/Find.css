@@ -1,0 +1,157 @@
+.find-container {
+  margin-bottom: -10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.find-title {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 250%;
+  width: 80vw;
+  margin-top: 8rem;
+  text-transform: uppercase;
+  margin-bottom: 5rem;
+}
+
+.find-description {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 80vw;
+  margin-bottom: 5rem;
+}
+
+.find-sub-title {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 80vw;
+  margin-bottom: 5rem;
+  text-transform: uppercase;
+}
+
+.find-reading {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 70%;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5rem;
+}
+
+.find-reading-title {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  max-width: 65%;
+  margin-bottom: 2rem;
+  text-transform: uppercase;
+}
+
+.find-img-aries {
+  background-image: url(../../../public/img/aries.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-taurus {
+  background-image: url(../../../public/img/taurus.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-gemini {
+  background-image: url(../../../public/img/gemini.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-cancer {
+  background-image: url(../../../public/img/cancer.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-leo {
+  background-image: url(../../../public/img/leo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-virgo {
+  background-image: url(../../../public/img/virgo.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-libra {
+  background-image: url(../../../public/img/libra.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-scorpio {
+  background-image: url(../../../public/img/scorpio.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-sagittarius {
+  background-image: url(../../../public/img/sagittarius.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-capricorn {
+  background-image: url(../../../public/img/capricorn.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-aquarius {
+  background-image: url(../../../public/img/aquarius.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
+
+.find-img-pisces {
+  background-image: url(../../../public/img/pisces.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 20vw;
+  height: 20vh;
+  margin-top: -4rem;
+}
