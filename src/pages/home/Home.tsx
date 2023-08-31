@@ -12,6 +12,11 @@ const Home = () => {
       </div>
       <div className="home-btn-container">
         <HomeBtn
+          label="Find Your Sign"
+          path="/findyoursign"
+          className="find-your-sign-btn"
+        />
+        <HomeBtn
           label="Daily Horoscopes"
           path="/dailyhoroscopes"
           className="daily-horoscopes-btn"
